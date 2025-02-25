@@ -34,13 +34,9 @@ var cfgFile string
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "GPM",
-	Short: "A brief description of your application",
-	Long: `A longer description that spans multiple lines and likely contains
-examples and usage of using your application. For example:
-
-Cobra is a CLI library for Go that empowers applications.
-This application is a tool to generate the needed files
-to quickly create a Cobra application.`,
+	Short: "A small, privately scoped package manager for Godot",
+	Long: `GPM is a small package manager for Godot that enables encapsulated, modular development of packages.  
+The general idea of GPM is to develop systems in isolated environments, then include them as packages in larger projects. This increases the reusability of your code, and encourages encapsulated behavior of your systems.`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
