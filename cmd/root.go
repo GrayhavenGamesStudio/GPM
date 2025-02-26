@@ -1,5 +1,5 @@
 /*
-Copyright © 2025 Paxton Terry <info@grayhavengames.com>
+Copyright © 2025 Paxton Terry <paxton@grayhavengames.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
